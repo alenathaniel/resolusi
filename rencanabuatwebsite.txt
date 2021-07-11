@@ -1,5 +1,6 @@
 RENCANA BUAT WEBSITE YANG BAGUS 
 
+- Membuat ui keren
 - Pake react.js
 - Pake node.js
 - Pake laravel
