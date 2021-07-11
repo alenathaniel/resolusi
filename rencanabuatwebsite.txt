@@ -1,7 +1,9 @@
 RENCANA BUAT WEBSITE YANG BAGUS 
 
 - Membuat ui keren
+  * Figma
 - Pake react.js
+- Pake vue.js
 - Pake node.js
 - Pake laravel
 - hosting
