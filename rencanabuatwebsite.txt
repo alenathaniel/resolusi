@@ -1,0 +1,5 @@
+RENCANA BUAT WEBSITE YANG BAGUS 
+
+- Pake react.js
+- Pake node.js
+- Pake laravel
