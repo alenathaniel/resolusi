@@ -1,7 +1,9 @@
 RENCANA BUAT WEBSITE YANG BAGUS 
 
 - Membuat ui keren
-- Pake react.js
+  * Figma
+  * Adobe Ilustrator
+- Pake Angular
 - Pake node.js
 - Pake laravel
 - hosting
